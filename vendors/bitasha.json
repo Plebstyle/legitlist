@@ -1,0 +1,14 @@
+{
+  "name": "Bitasha",
+  "slug": "bitasha",
+  "website": "https://bitasha.com/",
+  "region": "India",
+  "country": "India",
+  "description": "We are bitcoin hardware manufacturers based in India. Currently we manufacture two products - bitaxe gamma and seed plate. Currently we ship across India. We have been building and selling since October 2025."
+  "active": true,
+  "social": {
+    "x": "https://x.com/BitashaIndia",
+    "instagram": "https://www.instagram.com/bitashaofficial/",
+    "nostr":"https://primal.net/p/nprofile1qqsrwxgz4pphgttugcev9khnqr6jdrtkmxwvrmt8vueus02mxueqrwgkn6xfr"
+  }
+}
