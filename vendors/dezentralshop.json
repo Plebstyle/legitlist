@@ -1,0 +1,16 @@
+{
+  "name": "Dezentralshop",
+  "slug": "dezentralshop",
+  "website": "https://dezentralshop.ch",
+  "region": "Europe",
+  "country": "Switzerland",
+  "description": "The first Bitcoin-only store in Switzerland, offering everything related to Bitcoin. The first Bitaxe manufactured in Switzerland.",
+  "active": true,
+  "social": {
+    "x": "https://x.com/DezentralshopCH",
+    "instagram": "https://www.instagram.com/dezentralshop.ch/",
+    "youtube": "https://www.youtube.com/@DezentralshopCH",
+    "tiktok": "",
+    "nostr": "https://primal.net/p/npub1wcj9lyjeuq3lrhmw7sjrrwlmfcdu70ft899x7eemqhkta8dxadasur6d6t"
+  }
+}
